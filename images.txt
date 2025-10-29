@@ -1,4 +1,4 @@
 #支持私库
---platform=linux/amd64 nvidia/12.4.1-cudnn-devel-ubuntu20.04
+--platform=linux/amd64 nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
 
 
